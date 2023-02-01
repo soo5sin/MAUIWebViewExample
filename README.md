@@ -2,6 +2,8 @@
 # MAUIWebViewExample
 MAUI Custom Handlers For Hybrid Web View
 
+[stackoverflow](https://stackoverflow.com/questions/73217992/js-net-interact-on-maui-webview)
+
 This is a sample MAUI project that implements a custom Hybrid WebView component with JavaScript -> Native interoperability for Android, iOS, and Windows.
 
 ## Regarding Windows 
